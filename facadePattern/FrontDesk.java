@@ -1,7 +1,5 @@
 package facadePattern;
 
-import tests.CarFacade;
-
 public class FrontDesk {
     private HotelService hotelService;
 
